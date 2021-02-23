@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="title">pokemon</string>
+    <string name="content_description_media">Header</string>
+    <string name="linear">Linear</string>
+    <string name="bar_title">POKEDEX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_desc">img pokemon</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="pokemon">Charmander</string>
+    <string name="Welcome">Ingrese su Nombre :)</string>
+    <string name="welcome">ENTRAR</string>
+    <string name="bienvenida">Bienvenido a tu Pokedex</string>
+</resources>
